@@ -1,0 +1,7 @@
+C:\Users\krist\OneDrive\Dokumenter\Visual Studio 2019\NumberGuesser\bin\Debug\NumberGuesser.exe.config
+C:\Users\krist\OneDrive\Dokumenter\Visual Studio 2019\NumberGuesser\bin\Debug\NumberGuesser.exe
+C:\Users\krist\OneDrive\Dokumenter\Visual Studio 2019\NumberGuesser\bin\Debug\NumberGuesser.pdb
+C:\Users\krist\OneDrive\Dokumenter\Visual Studio 2019\NumberGuesser\obj\Debug\NumberGuesser.csprojAssemblyReference.cache
+C:\Users\krist\OneDrive\Dokumenter\Visual Studio 2019\NumberGuesser\obj\Debug\NumberGuesser.csproj.CoreCompileInputs.cache
+C:\Users\krist\OneDrive\Dokumenter\Visual Studio 2019\NumberGuesser\obj\Debug\NumberGuesser.exe
+C:\Users\krist\OneDrive\Dokumenter\Visual Studio 2019\NumberGuesser\obj\Debug\NumberGuesser.pdb
